@@ -1,5 +1,3 @@
-server:
-  port: 1232
 spring:
   application:
     name: yaho2
